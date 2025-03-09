@@ -67,7 +67,7 @@ export default function Home() {
       <StyledH2>About Me</StyledH2>
       <StyledContentDiv>
         <ImageDiv>
-          <StyledImg src="../public/Portrait.JPG" alt="Chill dude at school" />
+          <StyledImg src="/Portrait.JPG" alt="Chill dude at school" />
         </ImageDiv>
         <StyledTextDiv>
           <StyledP>
